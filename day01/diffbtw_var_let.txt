@@ -1,0 +1,22 @@
+var:
+
+On using the var we can redeclare the value for a variable and also reassignment can be done.
+
+For example:
+
+var name = "Hari"
+var name = "karan"
+
+Now my name variable was redeclared to a new value and also it got reassigned.
+
+
+let:
+
+On using the let we can't redeclare the value for a variable and only reassignment can be done.
+
+For example:
+
+let name = "Hari"
+let name = "karan" //This will throw error. So i need to use as name = "karan"
+
+Now my name variable was got reassigned to a new value.
